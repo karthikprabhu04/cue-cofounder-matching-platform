@@ -1,6 +1,6 @@
 # Cambridge Co-founder Platform
 
-Minimal MVP for verified Cambridge students to discover potential co-founders, send a short intro request, and unlock LinkedIn or Cambridge email once a request is accepted.
+MVP for verified Cambridge students to discover potential co-founders, send a short intro request, and unlock LinkedIn or Cambridge email once a request is accepted.
 
 ![alt text](image.png)
 
@@ -13,7 +13,7 @@ If someone else wants to run this project on their own machine, these are the st
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/karthikprabhu04/cue-cofounder-matching-platform
 cd cue-cofounder-matching-platform
 ```
 
