@@ -2,6 +2,10 @@
 
 Minimal MVP for verified Cambridge students to discover potential co-founders, send a short intro request, and unlock LinkedIn or Cambridge email once a request is accepted.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Quickstart
 
 If someone else wants to run this project on their own machine, these are the steps:
